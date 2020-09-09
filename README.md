@@ -28,21 +28,27 @@ It includes homes solde between May 2014 and May 2015,dataset columns are as fol
 
 * grade: overall grade given to the housing unit, based on King County grading system
 
-*sqft_above :square footage of house apart from basement
+* sqft_above :square footage of house apart from basement
 
-*sqft_basement: square footage of the basement
+* sqft_basement: square footage of the basement
 
-*yr_built :Built Year
+* yr_built :Built Year
 
-*yr_renovated :Year when house was renovated
+* yr_renovated :Year when house was renovated
 
-*zipcode:zip code
+* zipcode:zip code
 
-*lat: Latitude coordinate
+* lat: Latitude coordinate
 
-*long: Longitude coordinate
+* long: Longitude coordinate
 
-*sqft_living15 :Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area
+* sqft_living15 :Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area
 
-*sqft_lot15 :lotSize area in 2015(implies-- some renovations)
+* sqft_lot15 :lotSize area in 2015(implies-- some renovations)
+
+In this project we will do:
+### Data Wrangling
+### Exploratory Data Analysis
+### Model Development
+### Model Evaluation and Refinement
 
