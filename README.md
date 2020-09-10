@@ -1,15 +1,17 @@
 # House-sales-in-king-county-USA
 Project is suggested by coursera as a final assignment on Data Analysis course for IBM Data Science professional certificate 
-In this project, we will analyse and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors and so on 
-### I used various regression methods for prediction (Ridge Regression ,XGBregressor,Simple & Multiple Linear Regression,Polynomial Regression..) and some metrics like R-squared values and mean of R^2 obtained from K-fold cross validation to compare different models.
-#### Having R-squared value closer to 1 means a better fit
+The goal of this project is to analyze and predict the price of housing in king County for 2016
+## About the Work:
 - In this project we will do:
-
 #### Data Wrangling
 #### Exploratory Data Analysis
 #### Exploring Data through Visualizations Seaborn and MatPlotLib
 #### Model Development
 #### Model Evaluation and Refinement
+
+I used various regression methods for prediction (Ridge Regression ,XGBregressor,Simple & Multiple Linear Regression,Polynomial Regression..) and some metrics like R-squared values and mean of R^2 obtained from K-fold cross validation to compare different models.
+###### Having R-squared value closer to 1 means a better fit
+
 ## Dataset : https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/coursera/project/kc_house_data_NaN.csv
 Our dataset contains house sales prices for King County which includes Seattle.
 It includes homes solded between May 2014 and May 2015,dataset columns are as follows:
