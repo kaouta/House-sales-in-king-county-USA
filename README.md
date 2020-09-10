@@ -39,4 +39,3 @@ It includes homes solded between May 2014 and May 2015,dataset columns are as fo
 * sqft_lot15 :lotSize area in 2015(implies-- some renovations)
 
 
-
